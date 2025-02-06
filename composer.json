@@ -1,0 +1,16 @@
+{
+  "name": "safeno/clube-full-stack_mvc",
+  "description": "MVC 2021",
+  "autoload": {
+    "psr-4": {
+      "app\\": "app/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Lucas Safeno",
+      "email": "lugnorio@gmail.com"
+    }
+  ],
+  "require": {}
+}
